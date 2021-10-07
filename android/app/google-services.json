@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443235376860",
+    "project_id": "blog-app-464f3",
+    "storage_bucket": "blog-app-464f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443235376860:android:30eae7be1b46ed75491e19",
+        "android_client_info": {
+          "package_name": "com.vlog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443235376860-uas7estcqj4rtafvp47irgt1jcq3v08k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgtq7TQ4hUMlv1selujAa4dktxyAWknMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443235376860-uas7estcqj4rtafvp47irgt1jcq3v08k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
